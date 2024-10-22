@@ -12,3 +12,5 @@ def h(z):
     print("Laissez moi faire ma profession de foi en paix")
     return("SPAP AIDE")
 
+print("PAPS Aide")
+print("PAPS")
