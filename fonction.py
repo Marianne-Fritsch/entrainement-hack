@@ -14,3 +14,8 @@ def h(z):
 
 print("PAPS Aide")
 print("PAPS")
+print("PAAAAAPSSSSS AIDEEEEEEEE")
+
+def j(z):
+    print("Votez pour Mariannnneeeeeeeee")
+    return("pas obligé de mettre de return")
