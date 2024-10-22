@@ -1,6 +1,8 @@
 texte : ceci est la
 version 4 modifiée à la main
 une ligne en plus
+ligne khâtre
+
 froc
 
 
