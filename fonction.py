@@ -1,3 +1,4 @@
 def f(x):
-    print ("Votez pas pour PL")
+    print ("Soyez gentils les amis")
+    x=46
     return x**2 
